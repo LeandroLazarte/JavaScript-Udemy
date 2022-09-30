@@ -1,0 +1,16 @@
+let resultado;
+
+resultado = (20 + 30) * 2;
+resultado = 20 + 30 * 2;
+
+// 20% de descuento en el carrito de compra
+resultado = (20 + 30 + 50 + 40) * .2;
+resultado = (20 + 30 ) * 1.52;
+
+
+
+
+
+
+
+console.log(resultado);
